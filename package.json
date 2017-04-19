@@ -1,12 +1,12 @@
 {
-  "name": "twilio",
+  "name": "twilio-next-gen",
   "description": "A Twilio helper library",
   "version": "3.0.0-rc.16",
   "author": "API Team <api@twilio.com>",
   "contributors": [
     {
       "name": "twilio-node contributors",
-      "url": "https://github.com/twilio/twilio-node/graphs/contributors"
+      "url": "https://github.com/Townsheriff/twilio-node/graphs/contributors"
     }
   ],
   "keywords": [
